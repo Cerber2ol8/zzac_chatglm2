@@ -1,4 +1,4 @@
-wget https://github.com/Cerber2ol8/zzac_chatglm2/releases/download/preview/chatglm2-6b_pytorch.tar.gz -O chatglm2-6b_pytorch.tar.gz
+wget https://gitee.com/Cerber2ol8/zzac_chatglm2/releases/download/preview/chatglm2-6b_pytorch.tar.gz -O chatglm2-6b_pytorch.tar.gz
 tar -zxf chatglm2-6b_pytorch.tar.gz
 rm -f chatglm2-6b_pytorch.tar.gz
 cp -r /public/home/hpcdata/Models/chatglm2-6b chatglm2-6b_pytorch/
