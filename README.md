@@ -7,7 +7,8 @@
 一条命令在zzcs ac平台部署chatglm2-6b notebook
 
 
-bash```
-curl https://gitee.com/Cerber2ol8/zzac_chatglm2/raw/main/chatglm2-6b.sh|bash```
+```bash
+curl https://gitee.com/Cerber2ol8/zzac_chatglm2/raw/main/chatglm2-6b.sh|bash
+```
 
 在Eshell中执行上面的命令，然后通过启动对应容器即可进行chatglm2-6b推理
